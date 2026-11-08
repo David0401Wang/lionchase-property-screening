@@ -1,0 +1,160 @@
+{
+  "model_id": "lionchase-six-category",
+  "data_kind": "fictional",
+  "as_of": "2026-11-07",
+  "window_start": "2025-11-01",
+  "window_end": "2026-10-31",
+  "records": [
+    {
+      "id": "fictional-albany-01",
+      "name": "David Wang",
+      "area": "FICTIONAL DEMONSTRATION \u2014 Albany / Pine Hills-style context; no real parcel",
+      "municipality": "Albany, New York \u2014 fictional example",
+      "property_cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+      "comparison_group": "fictional-albany-single-family",
+      "geography_verified": true,
+      "boundary_source": "https://example.org/fictional-boundary",
+      "comparability_verified": true,
+      "in_scope": true,
+      "material_evidence_holds": [],
+      "category_observations": {
+        "buyer_depth": {
+          "rating": 3,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Fictional household and rental utility supports a conditional ordinary buyer-appeal opinion.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ]
+        },
+        "resale_liquidity": {
+          "rating": 2,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Fictional repeated pricing resistance supports a below-ordinary liquidity judgment.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ]
+        },
+        "trajectory": {
+          "rating": 3,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Fictional mixed local signals support a neutral directional opinion.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ]
+        },
+        "acquisition_economics": {
+          "rating": 3,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Illustrative entry199000 lies less than5% below the assumed200000 lower bound; limited coverage caps unsupported bargain claims.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ],
+          "valuation_inputs": {
+            "entry": 199000,
+            "as_is_lower": 200000,
+            "as_is_upper": 245000,
+            "currency": "USD",
+            "coverage": "limited",
+            "basis": "FICTIONAL independent analyst reconciliation for demonstration only"
+          }
+        },
+        "renovation_repeatability": {
+          "rating": 3,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Fictional conventional product supports an ordinary-work scenario without claiming an inspection.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ]
+        },
+        "downside_resilience": {
+          "rating": 3,
+          "rating_basis": "analyst_estimate",
+          "rationale": "Fictional ordinary-use exposure assumes no known major physical or transaction obstacle.",
+          "assumptions": [
+            "Entirely fictional inputs; no actual property or investment conclusion",
+            "Ordinary existing lawful use and condition assumed solely for demonstration"
+          ],
+          "evidence": [
+            {
+              "source": "https://example.org/fictional-lionchase-demo",
+              "definition": "FICTIONAL scenario inputs for calculation demonstration only",
+              "geography": "Fictional Pine Hills-style context, Albany, New York; no real parcel",
+              "cohort": "Fictional four-bedroom single-family product, ordinary existing use assumed",
+              "summary": "All observations, prices, conditions and rating judgments are fictional examples, not sourced market facts.",
+              "data_start": "2026-09-01",
+              "data_end": "2026-10-31",
+              "accessed_on": "2026-11-07"
+            }
+          ]
+        }
+      },
+      "investment_notes": "Preliminary six-category fictional screen: household and rental utility is balanced by pricing resistance. The illustrative entry is close to the assumed as-is band; no flip profit is inferred.",
+      "caution": "Fictional assumptions only. A real case needs current status, condition, lawful use, occupancy and matched sales verified; one rating-level change could alter the tier."
+    }
+  ]
+}

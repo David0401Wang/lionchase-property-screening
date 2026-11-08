@@ -1,0 +1,91 @@
+{
+  "model_id": "lionchase-six-category",
+  "data_kind": "fictional",
+  "headers": [
+    "Name",
+    "Area / neighborhood label",
+    "Buyer depth /20",
+    "Resale liquidity /20",
+    "Trajectory /15",
+    "Acquisition economics /15",
+    "Renovation repeatability /15",
+    "Downside resilience /15",
+    "Total /100",
+    "Screening tier",
+    "Investment notes",
+    "Caution / validation required"
+  ],
+  "result_type": "FICTIONAL_DEMONSTRATION",
+  "notice": "Field/arithmetic checks only; source truth and rating adequacy require research review. Deliver only the 12-column rows; diagnostics are internal.",
+  "results": [
+    {
+      "id": "fictional-albany-01",
+      "comparison_group": "fictional-albany-single-family",
+      "status": "PROVISIONAL",
+      "category_points": {
+        "buyer_depth": 12.0,
+        "resale_liquidity": 8.0,
+        "trajectory": 9.0,
+        "acquisition_economics": 9.0,
+        "renovation_repeatability": 9.0,
+        "downside_resilience": 9.0
+      },
+      "total": 56.0,
+      "tier": "Watchlist (provisional)",
+      "subsectors": {
+        "marketability": 38.0,
+        "financial": 9.0,
+        "execution": 9.0
+      },
+      "analyst_assumptions": {
+        "buyer_depth": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ],
+        "resale_liquidity": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ],
+        "trajectory": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ],
+        "acquisition_economics": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ],
+        "renovation_repeatability": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ],
+        "downside_resilience": [
+          "Entirely fictional inputs; no actual property or investment conclusion",
+          "Ordinary existing lawful use and condition assumed solely for demonstration"
+        ]
+      },
+      "source_urls": [
+        "https://example.org/fictional-lionchase-demo"
+      ],
+      "known_points": 56.0,
+      "missing_weight": 0,
+      "possible_completion_range": [
+        56.0,
+        56.0
+      ],
+      "row": [
+        "David Wang",
+        "FICTIONAL DEMONSTRATION \u2014 Albany / Pine Hills-style context; no real parcel",
+        12.0,
+        8.0,
+        9.0,
+        9.0,
+        9.0,
+        9.0,
+        56.0,
+        "Watchlist (provisional)",
+        "FICTIONAL DEMONSTRATION. Preliminary six-category fictional screen: household and rental utility is balanced by pricing resistance. The illustrative entry is close to the assumed as-is band; no flip profit is inferred.",
+        "Fictional assumptions only. A real case needs current status, condition, lawful use, occupancy and matched sales verified; one rating-level change could alter the tier."
+      ]
+    }
+  ]
+}
