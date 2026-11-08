@@ -1,0 +1,56 @@
+{
+  "model_id": "lionchase-six-category",
+  "data_kind": "unresearched",
+  "as_of": "2026-11-07",
+  "window_start": "2025-11-01",
+  "window_end": "2026-10-31",
+  "records": [
+    {
+      "id": "unscored-property",
+      "name": "ANALYST NAME",
+      "area": "UNSCORED: verify the community and full property address",
+      "municipality": "UNDEFINED: define and verify the selected jurisdiction",
+      "property_cohort": "UNDEFINED: set property type, condition and exit-price band before scoring",
+      "comparison_group": "UNDEFINED",
+      "geography_verified": false,
+      "boundary_source": null,
+      "comparability_verified": false,
+      "in_scope": true,
+      "material_evidence_holds": [],
+      "category_observations": {
+        "buyer_depth": {
+          "rating": null,
+          "rationale": "Not researched",
+          "evidence": []
+        },
+        "resale_liquidity": {
+          "rating": null,
+          "rationale": "Not researched",
+          "evidence": []
+        },
+        "trajectory": {
+          "rating": null,
+          "rationale": "Not researched",
+          "evidence": []
+        },
+        "acquisition_economics": {
+          "rating": null,
+          "rationale": "As-is value reconciliation not yet researched",
+          "evidence": []
+        },
+        "renovation_repeatability": {
+          "rating": null,
+          "rationale": "Representative project evidence not available",
+          "evidence": []
+        },
+        "downside_resilience": {
+          "rating": null,
+          "rationale": "Not researched",
+          "evidence": []
+        }
+      },
+      "investment_notes": "No property or investment conclusion is inferred from this blank template.",
+      "caution": "Replace placeholders, define a comparable cohort and attach evidence before scoring."
+    }
+  ]
+}
