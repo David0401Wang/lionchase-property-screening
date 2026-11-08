@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lionchase Property Screening"
+  short_description: "Research properties with a reusable six-category screen"
+  default_prompt: "Use $lionchase-neighborhood-scoring to research properties in the selected region, disclose local evidence and analyst assumptions, and deliver the twelve-column English screening results."
