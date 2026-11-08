@@ -1,0 +1,20 @@
+{
+  "model_id": "lionchase-six-category",
+  "name": "Lionchase Six-Category Investment and Execution Screen",
+  "status": "Judgment-based coursework rubric; not empirically validated",
+  "categories": [
+    {"id":"buyer_depth","header":"Buyer depth /20","maximum":20,"sector":"marketability"},
+    {"id":"resale_liquidity","header":"Resale liquidity /20","maximum":20,"sector":"marketability"},
+    {"id":"trajectory","header":"Trajectory /15","maximum":15,"sector":"marketability"},
+    {"id":"acquisition_economics","header":"Acquisition economics /15","maximum":15,"sector":"financial"},
+    {"id":"renovation_repeatability","header":"Renovation repeatability /15","maximum":15,"sector":"execution"},
+    {"id":"downside_resilience","header":"Downside resilience /15","maximum":15,"sector":"marketability"}
+  ],
+  "tiers": [
+    {"minimum":75,"label":"Priority"},
+    {"minimum":60,"label":"Selective"},
+    {"minimum":45,"label":"Watchlist"},
+    {"minimum":0,"label":"Low priority"}
+  ],
+  "headers": ["Name","Area / neighborhood label","Buyer depth /20","Resale liquidity /20","Trajectory /15","Acquisition economics /15","Renovation repeatability /15","Downside resilience /15","Total /100","Screening tier","Investment notes","Caution / validation required"]
+}
